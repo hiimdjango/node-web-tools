@@ -1,0 +1,14 @@
+{
+  "name": "node-web-tools",
+  "version": "1.0.0",
+  "description": "Tools for Web crawling and scraping ",
+  "main": "crawl.js",
+  "repository": "https://github.com/hiimdjango/node-web-tools.git",
+  "author": "hiimdjango",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "extract": "node crawl.js --download",
+    "start": "node crawl.js"
+  }
+}

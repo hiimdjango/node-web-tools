@@ -1,0 +1,5 @@
+# Output directory for downloaded media files
+output
+
+# Mac system files
+.DS_Store
